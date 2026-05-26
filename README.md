@@ -118,7 +118,7 @@ BCI-Headset-Bartender-game/
 
 ## License
 
-This project was developed as part of the **Neurotechnologies Lab** coursework.
+This project was developed as part of the **Neurotechnologies Lab** coursework for BR41N.IO-HACKATHON.
 
 ---
 
