@@ -4,6 +4,11 @@
 
 Mix drinks, memorize recipes, and serve cocktails — all controlled with your brain!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UVT-Neuroscience-Lab/BCI-Bartender-Cat-Game/main/docs/showcase.gif" alt="BCI Bartender Cat Game Showcase" width="700"/>
+</p>
+
+---
 
 ## About the Game
 
