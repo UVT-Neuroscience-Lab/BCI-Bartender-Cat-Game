@@ -1,0 +1,14 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+Assembly-CSharp.csproj
+Assembly-CSharp.csproj.lscache
+Bartender Prototype.sln
+.DS_Store
+.vs
+.vscode
+.vsconfig
