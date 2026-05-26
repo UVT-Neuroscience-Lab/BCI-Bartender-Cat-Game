@@ -4,10 +4,6 @@
 
 Mix drinks, memorize recipes, and serve cocktails — all controlled with your brain!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UVT-Neuroscience-Lab/BCI-Bartender-Cat-Game/main/docs/showcase.gif" alt="BCI Bartender Cat Game Showcase" width="700"/>
-</p>
-
 ---
 
 ## About the Game
@@ -31,6 +27,10 @@ The game supports both **keyboard input** and **BCI (ERP-based) input**, making 
 |:---:|:---:|:---:|
 | ![Recipe Screen](docs/screenshot_3.jpg) | ![Mixing Screen](docs/screenshot_2.jpg) | ![Win Screen](docs/screenshot_1.jpg) |
 | *Memorize bottles and quantities before time runs out.* | *Pour from 6 bottles to craft the perfect cocktail.* | *Nail the recipe and earn a sparkling golden trophy!* |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UVT-Neuroscience-Lab/BCI-Bartender-Cat-Game/main/docs/showcase.gif" alt="BCI Bartender Cat Game Showcase" width="400"/>
+</p>
 
 ---
 
