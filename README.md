@@ -4,7 +4,6 @@
 
 Mix drinks, memorize recipes, and serve cocktails — all controlled with your brain!
 
----
 
 ## About the Game
 
